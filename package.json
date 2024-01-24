@@ -1,0 +1,14 @@
+{
+  "name": "playwrightassignments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ass2.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.0",
+    "@types/node": "^20.11.5"
+  }
+}
